@@ -5,7 +5,7 @@ Olá!
 
 Utilizei este notebook para realizar algumas análises a partir dos dados disponíveis para o FIES.
 
-As bibliotecas utilizadas na análise foram o Pandas, seaborn e matplotlib.
+As bibliotecas utilizadas na análise foram o Pandas, seaborn e matplotlib e criação de ambientes virtuais para instalação das bibliotecas.
 
 As principais atividades foram:
 
